@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Engineer
+subtitle: AI and Computer Vision Engineer
 
 profile:
   align: right
@@ -15,5 +15,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-## About Me
-I have over four years of experience in machine vision, contributing to several product developments, which have ranged from image classification and object detection to re-identification.
+I have over five years of experience in AI and Computer Vision. I developed and implemented computer vision algorithms and models for various applications such as classification, object detection, person re-identification, multi-object tracking, and face recognition. I collaborated with cross-functional teams to integrate Computer Vision models into production.
+
+
