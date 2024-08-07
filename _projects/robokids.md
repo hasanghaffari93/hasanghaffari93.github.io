@@ -18,3 +18,9 @@ The Robokids, Interactive Robotic Play Center, is the first and only AI-powered 
 
 
 
+    • Robokids is robotic-interactive amusement center with AI-powered games for kids.
+    • Developed and trained reidentification (ReID) models using Omni-Scale Neural Networks and YOLOv8
+    • Led data collection and annotation for ReID task (comprising +10k images from 400 children from 15 CCTV HD cameras)
+    • Optimized child ReID system by TensorRT and OpenVino to achieve +5FPS for all the 15 HD cams at single GPU
+    • Implemented real-time face part segmentation to place child’s head on the hero character’s body in a personalized storybook: My Hero
+    • Deployed semantic segmentation to prepare suitable input for ControlNet in Stable Diffusion

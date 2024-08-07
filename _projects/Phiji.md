@@ -9,6 +9,40 @@ related_publications: false
 ---
 
 
+
+
+
+
+Real-time detection of game objects in interactive physical/digital game, Phiji, deployed in Android and IOS devices
+
+    • Phiji is an interactive and story-driven game for teaching languages and math to children while playing. This game is both digital and physical including a mobile game and physical objects: English and Persian alphabets, numbers, dice, memory pieces, etc.
+    • Data generation by placing objects on diverse backgrounds in different lighting and environmental conditions to be used as a train dataset for annotator models
+    • Semi-automatic data collection by smartphone cameras (finally 500k images with an average of 3 objects per image)
+    • Fully automatic annotation using the annotator model, Faster RCNN ResNet-50, which was trained on the generated images, and multi-stage algorithm to correct false annotations
+    • Train several object detection models to detect game objects using Single-Shot Detection (SSD) architecture
+    • Real-time and on-device model inference on a variety of Android and IOS devices by employing quantization methods to reduce inference time and model size
+
+
+    • Phiji is an AI-powered interactive character for children with merged hardware and software and provides educational entertainment through diverse games.
+    • Led Android, IOS, Unity, and software teams to develop AI-driven games
+    • Led data collection and annotation for object detection models (including +3M images of physical game objects).
+    • Developed and trained object detection models (SSD MobileNet and YOLOv5), deployed real-time in Android and IOS devices by optimization techniques
+    • Optimized English and Persian speech-to-text model (Kaldi) by VOSK API implemented on mobiles
+    • Implemented child face recognition by MobileFaceNet in Android and IOS in real-time
+
+    • Training real-time object detection models to detect Persian alphabets, numbers, dices, and other components used in game application, FIGI, by TensorFlow Object Detection API, applying SSD meta-architecture
+    • Model optimization by employing quantization methods to reduce inference time and model size to be deployed in real time on a variety of Android and IOS devices
+    • Data collection and annotation by human and machine, using high-accuracy Faster R-CNN ResNet model
+
+
+
+
+
+
+
+
+
+
 ### My Role:
 
 - AI & Computer Vision Lead

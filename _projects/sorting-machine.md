@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 
-##### **My Role**
+##### **Role in Company**
 **Computer Vision Researcher and Developer**
 
 - Designed deep and multi-view Convolutional Neural Networks (CNN) to classify pistachio nut
