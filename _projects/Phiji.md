@@ -46,13 +46,23 @@ Phiji features a unique body invented, designed, and manufactured. Phiji's body 
 ![Link Name]("assets/img/phiji/15.jpg" ) 
 
 <div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+    <!-- <div class="col-sm-2 mt-3 mt-md-0">
+    </div> -->
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/phiji/15.jpg" title="example image" class="img-fluid rounded z-depth-1" height="0.5rem"%}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/phiji/4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <!-- <div class="col-sm-2 mt-3 mt-md-0">
+    </div> -->
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/phiji/15.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+
 <div class="caption">
     Rare camera captures the pad below stand. Front camera captures the child's face.
 </div>
