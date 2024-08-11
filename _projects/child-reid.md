@@ -1,24 +1,31 @@
 ---
 layout: page
 title: Child Re-identification
-description: with background image
-img: assets/img/12.jpg
-importance: 2
+description: implemented at Robokids
+img: assets/img/child-reid/1.png
+importance: 6
 category: work
 related_publications: false
 ---
 
+##### **Role in Project**
+
+- Led data collection and annotation for child re-identification task, comprising +10k images from 400 children from 15 CCTV HD cameras, capturing real-world scenarios of children engaged in play at Robokids. Ensured accuracy by conducting both automated and manual annotation processes.
+- Researched and evaluated various architectures for person re-identification tasks. Selected and fine-tuned Omni-Scale Neural Networks, using child-specific datasets.
+- Implemented optimizations to reduce processing time, enabling real-time identification suitable for practical use in Robokids (+5FPS for 15 HD cameras at a single GPU)
 
 
 
+##### **Product Description**
+
+We have developed a real-time child re-identification system for the Robokids, aiming to enhance parental oversight, improve children's play experiences, and provide more accurate user data. 
 
 
+**Real-Time Parental Monitoring:**
+This project enables parents to monitor their children in real-time within Robokids. The entire facility is equipped with surveillance cameras that are integrated with our child ReID system. Parents can remotely track their child's activities through their mobile phones, giving them peace of mind while they attend to personal matters outside Robokids, such as shopping or watching a movie.
 
-Real-time child re-identification in robotic-interactive amusement center, Robokids, using deep neural networks and child re-identification dataset
+**Accurate User Data Access:**
+This project provides more precise and comprehensive user data. This data includes information such as the number of users, their age, gender, and the duration of their play sessions. With this system in place, the center will be able to track user behavior more effectively, which is crucial for improving customer experience, optimizing marketing strategies, and enhancing product quality.
 
 
-    • Data collection for person re-identification task, comprising +10k images from 400 children in Robokids, from 15 CCTV HD cameras
-    • Automatic child detection using YOLOv5 to extract bounding boxes and manually data labelling
-    • Fine-tuning a person ReID model, inspired by Omni-Scale Network (OSNet), on the child ReID dataset
-    • Real-time model deployment on a local dedicated server
 

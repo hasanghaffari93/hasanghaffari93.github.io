@@ -3,7 +3,7 @@ layout: page
 title: Augmented Rock Climbing Wall
 description: A game in Robokids
 img: assets/img/12.jpg
-importance: 2
+importance: 6
 category: work
 related_publications: false
 ---

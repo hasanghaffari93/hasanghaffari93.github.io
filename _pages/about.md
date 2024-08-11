@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI Engineer
+subtitle: AI and Computer Vision Engineer
 
 profile:
   align: right

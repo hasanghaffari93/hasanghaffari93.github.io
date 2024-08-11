@@ -3,7 +3,7 @@ layout: page
 title: Interactive Painting
 description: a game in Robokids
 img: assets/img/12.jpg
-importance: 2
+importance: 6
 category: work
 related_publications: false
 ---
