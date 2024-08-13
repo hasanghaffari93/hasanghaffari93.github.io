@@ -172,3 +172,8 @@ This game is designed to enhance the child's memory skills. Various shapes are b
 The game takes place in a galactic environment where the child pilots a spaceship and uses lasers to target enemy creatures. The game progresses from easy to difficult levels, requiring the child to quickly maneuver the spaceship token to advance. Phiji, using AI, recognizes the spaceship's movements in real-time, allowing the child to see its position on the game screen.
 
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/phiji/galaxy.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
