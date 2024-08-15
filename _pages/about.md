@@ -29,5 +29,6 @@ I have over five years of experience in AI and Computer Vision. I developed and 
 \
 \
 ---
+- Download [CV](/assets/pdf/CV-HassanGhaffari.pdf)
 - Download [Resume](/assets/pdf/Resume_HassanGhaffari.pdf)
 - See selected [projects](/projects/)
