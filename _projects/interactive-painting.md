@@ -1,17 +1,12 @@
 ---
 layout: page
 title: Interactive Painting
-description: a game in Robokids
-img: assets/img/12.jpg
+description: Implemented in Robokids
+img: assets/img/interactive_painting/04.jpg
 importance: 6
 category: work
 related_publications: false
 ---
-
-- image: setting with child
-- image: box
-- first image
-- video
 
 
 ##### **Role in Project**
@@ -42,4 +37,35 @@ For example, if a child colors a sun, the sun is brought to life on the screen, 
 </div>
 <div class="caption">
     A child is coloring a drawing of fictional character
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/interactive_painting/01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/interactive_painting/02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/interactive_painting/03.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/interactive_painting/main_pintings.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Fictional characters painted by children
 </div>

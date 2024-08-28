@@ -2,7 +2,7 @@
 layout: page
 title: Augmented Rock Climbing Wall
 description: A game in Robokids
-img: assets/img/12.jpg
+img: assets/img/climbing_wall/03.jpg
 importance: 6
 category: work
 related_publications: false
@@ -28,3 +28,24 @@ The Augmented Rock Climbing Wall Game is an interactive game, implemented in Rob
 3. **Game Mechanics**: Climbers can participate in different types of games, such as hitting targets, following specific routes, or avoiding obstacles.
 
 
+
+
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/climbing_wall/01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/climbing_wall/02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/climbing_wall/04.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

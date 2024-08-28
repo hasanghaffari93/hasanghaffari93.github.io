@@ -2,7 +2,7 @@
 layout: page
 title: Robokids
 description: Interactive Robotic Play Center
-img: assets/img/12.jpg
+img: assets/img/robokids/01.jpg
 importance: 3
 category: work
 related_publications: false
@@ -29,3 +29,35 @@ Robokids is an Interactive Robotic Play Center, the first and only AI-powered in
 4. Online Personalized Storybook
 5. Human-Robot Eye Contact in Sami Robot
 6. Interactive Floor
+
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/robokids/02.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/robokids/03.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>    
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/robokids/04.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/robokids/05.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>    
+</div>
+
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/robokids/06.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/robokids/07.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>    
+</div>
+
