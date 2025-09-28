@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an AI and machine learning engineer with over 6 years of experience, primarily working in fast-paced startup environments to integrate AI into innovative products. I have hands-on experience with large language models (LLMs) and their applications in Retrieval-Augmented Generation (RAG) and chatbot development.
+I am an AI and machine learning engineer with over 6 years of experience, primarily working in fast-paced startup environments to integrate AI into innovative products. Currently, I am focusing on large language models (LLMs), AI agents, Retrieval-Augmented Generation (RAG) and chatbot development.
 
-A significant part of my expertise lies in computer vision, where I have developed, deployed, and optimized models for various applications, including image classification, object detection, person re-identification, multi-object tracking, and face recognition.
+A significant part of my expertise lies in machine learning and computer vision, where I have developed, deployed, and optimized deep learning models for various applications, including image classification, object detection, person re-identification, multi-object tracking, and face recognition.
  
 I have also built data pipelines for data collection, annotation, augmentation, and preprocessing to either fine-tune models or train them from scratch. Additionally, I’ve optimized models for real-time performance across various mobile platforms and edge devices.
 
